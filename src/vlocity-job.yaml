@@ -1,0 +1,53 @@
+projectPath: ./vlocity
+expansionPath: datapacks
+maxDepth: -1
+useAllRelationships: true
+queries:
+  - AttributeAssignmentRule
+  - AttributeCategory
+  - CalculationMatrix
+  - CalculationProcedure
+  - ContextAction
+  - ContextDimension
+  - ContextScope
+  - CpqConfigurationSetup
+  - CustomFieldMap
+  - CustomObjectMap
+  - DataRaptor
+  - DecisionMatrix
+  - DecisionMatrixVersion
+  - DocumentClause
+  - DocumentTemplate
+  - DocumentTemplates
+  - EntityFilter
+  - ExpressionSet
+  - ExpressionSetVersion
+  - FlexCard
+  - GeneralSettings
+  - IntegrationProcedure
+  - IntegrationRetryPolicy
+  - InterfaceImplementation
+  - ItemImplementation
+  - ManualQueue
+  - ObjectClass
+  - ObjectContextRule
+  - ObjectLayout
+  - OfferMigrationPlan
+  - OmniScript
+  - OrchestrationDependencyDefinition
+  - OrchestrationItemDefinition
+  - OrchestrationPlanDefinition
+  - OrchestrationQueueAssignmentRule
+  - QueryBuilder
+  - RelationshipGraph
+  - Rule
+  - SpecTemplateMapping
+  - StoryObjectConfiguration
+  - String
+  - System
+  - ThorOrchestrationQueue
+  - TimePlan
+  - TimePolicy
+  - UIFacet
+
+continueAfterError: true
